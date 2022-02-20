@@ -2,13 +2,13 @@
 
 #### 链接清单
 
-- [ ][confluence](https://confluence.nebula-graph.io/#all-updates)
+[ ][confluence](https://confluence.nebula-graph.io/#all-updates)
 
-- [ ][nebula论坛](https://discuss.nebula-graph.com.cn/)
+[ ][nebula论坛](https://discuss.nebula-graph.com.cn/)
 
-- [ ][nebula官方论坛](https://nebula-graph.io/)
+[ ][nebula官方论坛](https://nebula-graph.io/)
 
-- [ ][SelfNavi](http://www.superyoko.com/)
+[ ][SelfNavi](http://www.superyoko.com/)
 
-- [ ][write here](https://github.com/SuperYoko/blog)
+[ ][write here](https://github.com/SuperYoko/blog)
 
