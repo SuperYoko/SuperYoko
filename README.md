@@ -12,3 +12,5 @@
 
 - [ ] [write here](https://github.com/SuperYoko/blog)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperYoko&hide=contribs,prs)
