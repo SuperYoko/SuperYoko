@@ -10,8 +10,6 @@
 
 - [ ] [nebula官方论坛](https://nebula-graph.io/)
 
-- [ ] [SelfNavi](http://www.superyoko.com/)
-
 - [ ] [write here](https://github.com/SuperYoko/blog)
 
 
